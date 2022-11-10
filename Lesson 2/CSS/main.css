@@ -5,7 +5,7 @@
 }
 
 @font-face {
-	font-family: Asinastra;
+	font-family: asinastra;
 	scr: url(../Fonts/asinastra.otf);
 }
 
@@ -44,7 +44,6 @@ h1 {
 	margin: 20px;
 	text-align: center;
 	font-size: 48px;
-	font-family: Asinastra;
 }
 
 .photo1 {
