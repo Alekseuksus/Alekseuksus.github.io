@@ -5,12 +5,15 @@
 }
 
 @font-face {
-	font-family: asinastra;
-	scr: url(../Fonts/asinastra.otf);
+	font-family: 'asinastra';
+	font-style: normal;
+	font-weight: 400;
+	src: url(../Fonts/asinastra.ttf);
 }
 
 body {
 	background-color: #dfd3c3;
+	font-family: 'asinastra';
 }
 
 main {
